@@ -8,14 +8,18 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 PC developer
-- 🎥 Te enseño cosas en mi canal [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (0 subs)
-- ✏️ Estudiante del BMR 5to semestre
-- 📗 Programador en proceso
-- 🧑‍🏫 Aspirante a inginiero en sistemas computacionales de la comunicacion
+
+## Hi there 👋
+
+- 🔭 I’m currently working on BMR
+- 🌱 I’m currently learning Tocar guitarra
+- 👯 I’m looking to collaborate on Proyectos interesantes
+- 🤔 I’m looking for help with La programacion
+- 💬 Ask me about Mis pasatiempos
+- 📫 How to reach me: didiercharro1@gmail.com
+- 😄 Pronouns: El
+- ⚡ Fun fact: Soy pivot en basquet
 <br>
 
 ## Proyectos *bombitas*
