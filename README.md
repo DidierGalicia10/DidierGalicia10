@@ -5,6 +5,11 @@
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1VfghpEF-JuGy5Wne4SbOA?logo=youtube&link=https%3A%2F%2Fyoutube.com%2F%40didiergalicia%3Fsi%3DONbD90_bHv1gygJh)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DidierGalicia06?logo=x&link=https%3A%2F%2Fx.com%2FDidierGalicia06%3Ft%3DEwJaUV_dkAdLWyeFrGXixw%26s%3D09)
+![Static Badge](https://img.shields.io/badge/Instagram-pink?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fgalicia_didier%2Fprofilecard%2F%3Figsh%3Db2toOTl2MG80eW8y)
+![Static Badge](https://img.shields.io/badge/Facebook-blue?logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fshare%2F6mEb6dmwppvc97Sk%2F)
+![Static Badge](https://img.shields.io/badge/Whatsapp-green?logo=whatsapp&link=https%3A%2F%2Fwa.me%2Fqr%2F55EWTA7RO2JEM1)
+
+
 
 
 
