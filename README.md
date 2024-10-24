@@ -4,6 +4,8 @@
 <img src="https://imgur.com/wXQ6jIk.png">
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1VfghpEF-JuGy5Wne4SbOA?logo=youtube&link=https%3A%2F%2Fyoutube.com%2F%40didiergalicia%3Fsi%3DONbD90_bHv1gygJh)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DidierGalicia06?logo=x&link=https%3A%2F%2Fx.com%2FDidierGalicia06%3Ft%3DEwJaUV_dkAdLWyeFrGXixw%26s%3D09)
+
 
 
 
