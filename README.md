@@ -3,7 +3,7 @@
 </div>
 <img src="https://imgur.com/BwF2QP7.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@didiergalicia?si=ONbD90_bHv1gygJh)
+[![YouTube Channel Subscribers](https://studio.youtube.com/channel/UCf7tGNnrNWqdpJkw53M6N1A/analytics/tab-overview/period-default/explore?entity_type=CHANNEL&entity_id=UCf7tGNnrNWqdpJkw53M6N1A&time_period=4_weeks&explore_type=SUBSCRIBERS)](https://youtube.com/@didiergalicia?si=ONbD90_bHv1gygJh)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
@@ -12,14 +12,13 @@
 
 
 
-## Hi there 👋
+## Hola
 
-- 🔭 I’m currently working on Radar Ultrasonico
-- 👯 I’m looking to collaborate on Proyectos sobre paginas web
-- 🤔 I’m looking for help with La programacion
-- 💬 Ask me about Como programar en HTML, Java, JavaScript, C++
-- 📫 How to reach me: didiercharro1@gmail.com
-- 📄 Know about my experiences Tengo experiencia en hacer paginas web
+- 🔭 Actualmente estoy trabajando como desarollador web
+- 👯 Busco colaborar en proyectos relacionados con la creacion de paginas webs
+- 💬 Pregúntame sobre Cómo programar en HTML, Java, JavaScript, C++
+- 📫 Cómo contactarme: didiercharro1@gmail.com
+- 📄 Conoce mis experiencias en hacer paginas para sitios web
 <br>
 
 ## Proyectos *bombitas*
