@@ -40,15 +40,12 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Como hacer una pagina web vs code</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://imgur.com/KerCMlm" width="400" alt="Como hacer una pagina web"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 </a>
 <a href="https://youtu.be/N1PFJrsjZRA" target="_blank">
 </a>
-</p>
 <p>Aprende a hacer una pagina web.</p>
 </div>
                                                                                       
