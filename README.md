@@ -42,7 +42,7 @@
 <td width="50%">
 <h3 align="center">Como hacer una pagina web vs code</h3>
 <div align="center">
-[![Alt text](https://img.youtube.com/vi/N1PFJrsjZRA/0.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
 </a>
 <p>Aprende a hacer una pagina web.</p>
 </div>
