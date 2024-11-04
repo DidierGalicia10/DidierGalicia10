@@ -40,9 +40,10 @@
 <table>
 <tr>
 <td width="50%">
+  <img src="https://imgur.com/KerCMlm.png">
 <h3 align="center">Como hacer una pagina web vs code</h3>
 <div align="center">
-[![](https://markdown-videos.deta.dev/youtube/N1PFJrsjZRA)](https://youtu.be/N1PFJrsjZRA)
+
 <p>Aprende a hacer una pagina web.</p>
 </div>
                                                                                       
