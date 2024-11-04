@@ -45,10 +45,8 @@
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://imgur.com/KerCMlm" width="400" alt="Como hacer una pagina web"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/N1PFJrsjZRA" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>Aprende a hacer una pagina web.</p>
