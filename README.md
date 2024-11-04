@@ -49,32 +49,13 @@
                                                                                       
 </td>
 
-table>
-<tr>
-<td width="50%">
-  <img src="https://imgur.com/KerCMlm.png">
-<h3 align="center">Como hacer una pagina web vs code</h3>
-<div align="center">
-
-<p>Aprende a hacer una pagina web.</p>
-</div>
-                                                                                      
-</td>
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://imgur.com/Mdwh42x" width="400" alt="Como descargar vs code"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/iAlE4zjzhg4" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Descargar vs code</p>
+<h3 align="center">Descargar vs code</h3>
+<div align="center">
+
+  <img src="https://imgur.com/KerCMlm.png">
+<h3 align="center">Como hacer una pagina web vs code</h3>
 </div>                                                             
 </table>                                                                                 
 </div>
