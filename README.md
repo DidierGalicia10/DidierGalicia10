@@ -42,7 +42,7 @@
 <td width="50%">
 <h3 align="center">Como hacer una pagina web vs code</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://imgur.com/KerCMlm" width="400" alt="Como hacer una pagina web"></a>
+<a><img src="https://imgur.com/KerCMlm" width="400" alt="Como hacer una pagina web"></a>
 </a>
 <a href="https://youtu.be/N1PFJrsjZRA" target="_blank">
 </a>
