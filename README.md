@@ -49,6 +49,17 @@
                                                                                       
 </td>
 
+table>
+<tr>
+<td width="50%">
+  <img src="https://imgur.com/KerCMlm.png">
+<h3 align="center">Como hacer una pagina web vs code</h3>
+<div align="center">
+
+<p>Aprende a hacer una pagina web.</p>
+</div>
+                                                                                      
+</td>
 <td width="50%">
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
