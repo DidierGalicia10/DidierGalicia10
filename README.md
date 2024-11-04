@@ -43,7 +43,6 @@
   <img src="https://imgur.com/KerCMlm.png">
 <h3 align="center">Como hacer una pagina web vs code</h3>
 <div align="center">
-
 <p>Aprende a hacer una pagina web.</p>
 </div>
                                                                                       
