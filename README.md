@@ -42,7 +42,7 @@
 <td width="50%">
 <h3 align="center">Como hacer una pagina web vs code</h3>
 <div align="center">
-<a><img src="https://imgur.com/KerCMlm" width="400" alt="Como hacer una pagina web"></a>
+<img src="https://imgur.com/KerCMlm" width="400" alt="Como hacer una pagina web">
 </a>
 <a href="https://youtu.be/N1PFJrsjZRA" target="_blank">
 </a>
