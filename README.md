@@ -54,11 +54,11 @@
 <h3 align="center">Descargar vs code</h3>
 <div align="center">
 
-  <img src="https://imgur.com/KerCMlm.png">
+  <a href="https://youtu.be/N1PFJrsjZRA" target="_blank">
+  <img src="https://imgur.com/KerCMlm.png" alt="Imagen que redirige al video de YouTube">
+</a>
+
 <h3 align="center">Como hacer una pagina web vs code</h3>
-</div>                                                             
-</table>                                                                                 
-</div>
 <br>
 
 <table>
