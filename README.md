@@ -35,7 +35,8 @@
 - 📫 Cómo contactarme: didiercharro1@gmail.com
 - 📄 Conoce mis experiencias en hacer paginas para sitios web
 <br>
-## Video 1: Hola nuestra primera pagina web con github
+
+## Video 1: Hola nuestra primera pagina web
 
 [![Hola nuestra primera pagina web con github](https://img.youtube.com/vi/N1PFJrsjZRA.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
 
