@@ -35,8 +35,9 @@
 - 📫 Cómo contactarme: didiercharro1@gmail.com
 - 📄 Conoce mis experiencias en hacer paginas para sitios web
 <br>
+## Video 2: Hola nuestra primera pagina web con github
 
-[![Título del primer video](https://img.youtube.com/vi/N1PFJrsjZRA.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
+[![Hola nuestra primera pagina web con github](https://img.youtube.com/vi/N1PFJrsjZRA.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
 
-## Video 2: Título del segundo video
-[![Título del segundo video](https://img.youtube.com/vi/iAlE4zjzhg4.jpg)](https://www.youtube.com/watch?v=iAlE4zjzhg4)
+## Video 2: Video para descargar vs code
+[![Video para descargar vs code](https://img.youtube.com/vi/iAlE4zjzhg4.jpg)](https://www.youtube.com/watch?v=iAlE4zjzhg4)
