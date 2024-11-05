@@ -36,11 +36,10 @@
 - 📄 Conoce mis experiencias en hacer paginas para sitios web
 <br>
 
-## Video 1: Hola nuestra primera pagina web
+<a href="https://www.youtube.com/watch?v=iAlE4zjzhg4">
+  <img src="https://img.youtube.com/vi/iAlE4zjzhg4/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
+</a>
 
-
-[![Hola nuestra primera pagina web con github](https://img.youtube.com/vi/N1PFJrsjZRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
-
-
-## Video 2: Video para descargar vs code
-[![Video para descargar vs code](https://img.youtube.com/vi/iAlE4zjzhg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=iAlE4zjzhg4)
+<a href="https://www.youtube.com/watch?v=N1PFJrsjZRA">
+  <img src="https://img.youtube.com/vi/N1PFJrsjZRA/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
+</a>
