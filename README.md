@@ -38,15 +38,15 @@
 
 ## Video 1: Descargar vs code
 <DIV>
-<a href="https://www.youtube.com/watch?v=iAlE4zjzhg4">
-  <img src="https://img.youtube.com/vi/iAlE4zjzhg4/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
+<a href="https://www.youtube.com/watch?v=k2yd6mLMBuo">
+  <img src="https://img.youtube.com/vi/k2yd6mLMBuo/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
 </a>
 </DIV>
 
 ## Video 2: Hola nuestra primera pagina web
 
 <DIV>
-<a href="https://www.youtube.com/watch?v=N1PFJrsjZRA">
-  <img src="https://img.youtube.com/vi/N1PFJrsjZRA/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
+<a href="https://www.youtube.com/watch?v=y91BCpjtwcg">
+  <img src="https://img.youtube.com/vi/y91BCpjtwcg/maxresdefault.jpg" width="500" height="281" alt="Video de YouTube">
 </a>
 </DIV>
