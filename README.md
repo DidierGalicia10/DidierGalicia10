@@ -43,4 +43,4 @@
 
 
 ## Video 2: Video para descargar vs code
-[![Video para descargar vs code](https://img.youtube.com/vi/iAlE4zjzhg4.jpg)](https://www.youtube.com/watch?v=iAlE4zjzhg4)
+[![Video para descargar vs code](https://img.youtube.com/vi/iAlE4zjzhg4/maxresdefault.jpg)](https://www.youtube.com/watch?v=iAlE4zjzhg4)
