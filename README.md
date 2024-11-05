@@ -39,7 +39,7 @@
 ## Video 1: Hola nuestra primera pagina web
 
 
-[![[Hola nuestra primera pagina web con github](https://img.youtube.com/vi/N1PFJrsjZRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
+[![Hola nuestra primera pagina web con github](https://img.youtube.com/vi/N1PFJrsjZRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=N1PFJrsjZRA)
 
 
 ## Video 2: Video para descargar vs code
